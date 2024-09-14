@@ -4,6 +4,9 @@
 *::after {
   box-sizing: border-box;
 }
+#home{
+  min-height: 58vh
+}
 
 img{
   max-width: 700px;
